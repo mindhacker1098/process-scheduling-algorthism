@@ -1,3 +1,4 @@
+//fcfs starting
 #include <iostream>
 using namespace std;
 int i;
